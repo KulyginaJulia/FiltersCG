@@ -1,0 +1,16 @@
+C:\Users\tvc\Documents\Visual Studio 2013\Projects\test_bevzuk\Filters_kulygina\Filters_kulygina\bin\Debug\Filters_kulygina.exe
+C:\Users\tvc\Documents\Visual Studio 2013\Projects\test_bevzuk\Filters_kulygina\Filters_kulygina\bin\Debug\Filters_kulygina.pdb
+C:\Users\tvc\Documents\Visual Studio 2013\Projects\test_bevzuk\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.csprojResolveAssemblyReference.cache
+C:\Users\tvc\Documents\Visual Studio 2013\Projects\test_bevzuk\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.Form1.resources
+C:\Users\tvc\Documents\Visual Studio 2013\Projects\test_bevzuk\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.Properties.Resources.resources
+C:\Users\tvc\Documents\Visual Studio 2013\Projects\test_bevzuk\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.csproj.GenerateResource.Cache
+C:\Users\tvc\Documents\Visual Studio 2013\Projects\test_bevzuk\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.exe
+C:\Users\tvc\Documents\Visual Studio 2013\Projects\test_bevzuk\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.pdb
+I:\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.exe
+I:\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.pdb
+I:\Filters_kulygina\Filters_kulygina\bin\Debug\Filters_kulygina.exe
+I:\Filters_kulygina\Filters_kulygina\bin\Debug\Filters_kulygina.pdb
+I:\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.csprojResolveAssemblyReference.cache
+I:\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.Form1.resources
+I:\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.Properties.Resources.resources
+I:\Filters_kulygina\Filters_kulygina\obj\Debug\Filters_kulygina.csproj.GenerateResource.Cache
