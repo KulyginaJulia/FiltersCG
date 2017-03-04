@@ -41,12 +41,7 @@ namespace Filters_kulygina
         private void инверсияToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Filters filter = new InvertFilter();
-            //backgroundWorker1.RunWorkerAsync(filter);
-            Bitmap resultImage = filter.processImage(image, backgroundWorker1);
             backgroundWorker1.RunWorkerAsync(filter);
-            pictureBox1.Image = resultImage;
-            pictureBox1.Refresh();
-            backgroundWorker1.Dispose();
         }
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
@@ -77,6 +72,10 @@ namespace Filters_kulygina
             backgroundWorker1.CancelAsync();
         }
 
-
+        private void размытиеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new BlurFilter();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
     }
 }
